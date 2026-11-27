@@ -7,7 +7,7 @@ Each project publishes its own llms.txt with a full table of contents.
 ## Projects
 
 - [Wvlet](https://wvlet.org/wvlet/llms.txt): Flow-style query language that compiles to SQL for DuckDB, Trino, Snowflake, and Hive. Start with [Wvlet for AI Agents](https://wvlet.org/wvlet/docs/for-ai-agents.md).
-- [Uni](https://wvlet.org/uni/llms.txt): Scala 3 utilities (dependency injection, logging, JSON/MessagePack, Rx, HTTP, RPC, MCP servers, testing); the Scala 3 successor of Airframe. Start with [Uni for AI Agents](https://wvlet.org/uni/guide/for-ai-agents.md).
+- [Uni](https://wvlet.org/uni/llms.txt): Scala 3 utilities (object wiring, logging, JSON/MessagePack, Rx, HTTP, RPC, MCP servers, testing); the Scala 3 successor of Airframe. Start with [Uni for AI Agents](https://wvlet.org/uni/guide/for-ai-agents.md).
 
 ## Source
 
